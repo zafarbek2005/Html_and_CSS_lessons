@@ -1,0 +1,5 @@
+{
+    "git.autorefresh": true,
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSave": true
+}

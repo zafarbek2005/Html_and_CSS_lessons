@@ -1,0 +1,95 @@
+*{
+    padding: 0 ;
+    margin: 0 auto;
+}
+.menyu{
+display: inline;
+width: 42px;
+color: #B4604D;
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 28.8px; /* 160% */
+text-transform: capitalize;
+padding: 0px 100px;
+}
+.photo{
+    width: 120px;
+height: 56px;
+flex-shrink: 0;
+}
+.metka{
+    width: 20px;
+height: 22px;
+
+}
+.photo1{
+    padding: 10px;
+    width: 1540px;
+height: 435px;
+flex-shrink: 0;
+padding: 0;
+
+}
+.p1{
+    width: 242px;
+    color: #F6F4EC;
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 28.8px; /* 160% */
+text-transform: uppercase;
+
+}
+.h1{
+    width: 456px;
+    color: #F6F4EC;
+font-family: Roboto;
+font-size: 33px;
+font-style: normal;
+font-weight: 400;
+line-height: 64px; /* 193.939% */
+margin-bottom: 28px;
+
+}
+
+.div1{
+    background: #A9AE8D;
+    margin: -9px;
+    height: 300px;
+}
+.b1{
+    display: block;
+    width: 102px;
+    color: #FFF;
+font-family: Roboto;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: 28.8px; /* 169.412% */
+background: #B45F4D;
+
+}
+.line{
+    margin-top: 117px;
+
+}
+.p2{
+    width: 197px;
+    color: #B45F4D;
+text-align: center;
+font-family: Roboto;
+font-size: 23px;
+font-style: normal;
+font-weight: 400;
+line-height: 39.2px; /* 170.435% */
+text-transform: capitalize
+}
+.img{
+    display: inline-block;
+    width: 1840px;
+height: 902px;
+margin-top: 10px;
+}
